@@ -1,43 +1,43 @@
 <h1 align="center">🌂 BOOTSTUBE</h1>
 
-<img src="./assets/img.png" alt="Descrição da imagem">
+<img src="./assets/img.png" alt="Image description">
 
-> 🔎 O projeto se chama "BootsTube" e foi realizado utilizando a tecnologia [Bootstrap](https://getbootstrap.com).
+> 🔎 The project is called "BootsTube" and was carried out using [Bootstrap](https://getbootstrap.com) technology.
 
-🗔 Confira a aplicação: https://kayke-fujinaka.github.io/BootsTube/ <br>
+Check out the app: https://kayke-fujinaka.github.io/BootsTube/ <br>
 
-## :page_facing_up: Explicação
+## :page_facing_up: Explanation
 
-O projeto se chama "BootsTube" e foi realizado utilizando a tecnologia [Bootstrap](https://getbootstrap.com). O framework utilizado é bastante eficaz para realizar projetos, pois disponibiliza que componentes possam estar responsivos e prontos para uso de uma maneira bem fácil.
+The project is called "BootsTube" and it was realized using the [Bootstrap](https://getbootstrap.com) technology. The framework used is quite effective for carrying out projects, as it makes it possible for components to be responsive and ready to use in a very easy way.
 
-Os componentes utilizados foram: Carousel, Navbar e Card.
+The components used were: Carousel, Navbar and Card.
 
-## 🚀 Tecnologias ##
+## 🚀 Technologies ##
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [Bootstrap](https://getbootstrap.com)
 
-## 🤝 Colaboradores
+## 🤝 Collaborators
 
-Agradecemos às seguintes pessoas que contribuíram para este projeto:
+Thanks to the following people who contributed to this project:
 
 <table>
   <tr>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="160px;" alt="Foto do Kayke Fujinaka no GitHub"/><br>
+        <img src="https://avatars.githubusercontent.com/u/98772000?s=400&u=80de9af672be7f75cc7a546838552cf63d5b82fe&v=4" width="160px;" alt="Photo by Kayke Fujinaka on GitHub"/><br>
         <sub>
           <b>Kayke Fujinaka</b>
         </sub>
       </a>
-    </td>
+    </all>
   </tr>
 </table>
 
-## 📝 Licença
+## 📝 License
 
-Este projeto está sob licença. Consulte o arquivo [LICENSE](LICENSE.md) para obter mais detalhes.
+This project is under license. See the [LICENSE](LICENSE.md) file for more details.
 
 &#xa0;
 
-<a href="#top">Volte para o topo</a>
+<a href="#top">Go back to top</a>
